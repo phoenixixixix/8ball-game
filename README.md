@@ -1,11 +1,11 @@
 # Magic 8-ball game
-The game gives a simple answer to your question
+Console program in Ruby
 
 ## English ##
 Program imitates work of magic 8-ball 
 
 ### Usage ###
-Ask yourself a question and just call the program in the console. The program will give you a random answer.
+Ask yourself a question and just call the program in the console.
 
 #### Ruby
 ```
@@ -17,7 +17,10 @@ puts answers.sample
 Программа имитирует роботу магического шара.
 
 ### Использование ###
-Задайте себе вопрос и просто вызовите программу в консоли. Программа выдаст вам случайный ответ.
+Задайте себе вопрос и просто вызовите программу в консоли.
+```
+ruby 8ball.rb
+```
 
 #### Ruby
 ```
