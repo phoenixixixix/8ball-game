@@ -3,8 +3,8 @@ Simple console game in Ruby.
 Imitates work of magic 8-ball 
 
 ### Installation
-1. Для работы нужно [установить ruby][1]
-2. Скопировать гит-репозиторий
+1. You need [install ruby][1]
+2. Copy git repository
 
 ### Usage
 1. Go through the terminal to the game folder
