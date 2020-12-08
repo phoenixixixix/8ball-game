@@ -1,17 +1,17 @@
 # Magic 8-ball game
-Console program in Ruby
+Simple console game in Ruby.
+Imitates work of magic 8-ball 
 
-## English ##
-Program imitates work of magic 8-ball 
+### Installation
+1. Для работы нужно [установить ruby][1]
+2. Скопировать гит-репозиторий
 
-### Usage ###
-Ask yourself a question and just call the program in the console.
-
-## Русский ##
-Программа имитирует роботу магического шара.
-
-### Использование ###
-Задайте себе вопрос и просто вызовите программу в консоли.
+### Usage
+1. Go through the terminal to the game folder
+2. Ask yourself a question
+3. Run the game with comand
 ```
 ruby 8ball.rb
 ```
+
+[1]: https://www.ruby-lang.org/ru/documentation/installation/
